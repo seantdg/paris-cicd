@@ -1,3 +1,3 @@
 context.setVariable('target.copy.pathsuffix', false);
 
-context.setVariable('hagay', 'hungry'
+context.setVariable('paymentSuccessful', true);
